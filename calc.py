@@ -1,3 +1,3 @@
 
 def calc(x,y):
-  pass
+  return x + y
